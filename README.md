@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m Saira-Asif. I'm a high school student passionate about technology and eager to expand my skills in programming.
+ I’m Saira-Asif. I'm passionate about technology and eager to expand my skills in programming.
 
 
 ## 🌐 Socials:
