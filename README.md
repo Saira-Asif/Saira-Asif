@@ -1,10 +1,12 @@
-<h2 align="left">About Me
-Hi, I'm Saira 👋
+<h2 align="left">About Me</h2>
+
+
+<p>>Hi, I'm Saira 👋
 🌟 A passionate developer with expertise in TypeScript, HTML, TailwindCSS, Next.js, React, and Node.js.
 💻 Currently expanding my skills in cloud-native computing and modern development frameworks to build scalable, efficient, and user-friendly applications.
 ✨ Driven by a love for problem-solving, elegant design, and creating impactful digital solutions.
 
-Let’s collaborate and turn ideas into reality! 🚀</h2>
+Let’s collaborate and turn ideas into reality! 🚀</p>
 
 ###
 
@@ -14,8 +16,6 @@ Let’s collaborate and turn ideas into reality! 🚀</h2>
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
