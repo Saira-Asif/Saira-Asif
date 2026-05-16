@@ -1,6 +1,6 @@
 # <h2>💫 About Me:</h2>
 
-<br>Hi, I'm Saira 👋<br>🌟 A passionate developer with expertise in TypeScript, HTML, CSS, TailwindCSS, Next.js, React, and Node.js.<br>💻 Currently expanding my skills in cloud-native computing and modern development frameworks to build scalable, efficient, and user-friendly applications.<br>🎓 An IT enthusiast dedicated to continuous learning and innovation in tech.<br>✨ Driven by a love for problem-solving, elegant design, and creating impactful digital solutions.<br><br>Let’s collaborate and turn ideas into reality! 🚀
+<br>Hi, I'm Saira 👋<br>🌟 A passionate developer with expertise in Next.js, React, TypeScript, HTML, CSS, TailwindCSS, and Node.js.<br>💻 Currently expanding my skills in Agentic AI Development, cloud-native computing and modern development frameworks to build scalable, efficient, and user-friendly applications.<br>🎓 An IT enthusiast dedicated to continuous learning and innovation in tech.<br>✨ Driven by a love for problem-solving, elegant design, and creating impactful digital solutions.<br><br>Let’s collaborate and turn ideas into reality! 🚀
 
 
 ## 🌐 Socials:
