@@ -118,6 +118,10 @@ Learning →
 
 ---
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 # Visitor Count
 
 ![](https://visitcount.itsvg.in/api?id=Saira-Asif&icon=6&color=12)
@@ -130,7 +134,5 @@ Learning →
 <img src="https://raw.githubusercontent.com/Saira-Asif/Saira-Asif/output/github-snake.svg">
 </picture>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
