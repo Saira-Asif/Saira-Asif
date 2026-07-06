@@ -91,37 +91,13 @@ Learning →
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saira-Asif&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saira-Asif&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Saira-Asif&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-# Contribution Graph
 
 # 📈 Contribution Graph
 
 [![Saira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saira-Asif&theme=tokyo-night&hide_border=true)](https://github.com/Saira-Asif)
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saira-Asif&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</p>
 
 # Developer Philosophy
 
