@@ -1,6 +1,11 @@
 <div align="center">
 
 # Saira Asif
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Full-Stack+Developer;Building+Intelligent+Systems;Next.js+%7C+TypeScript+%7C+Python;Always+Learning+Something+New"/>
+
+</p>
 
 ### AI Engineer • Full-Stack Developer • Building Intelligent Systems
 
@@ -86,29 +91,37 @@ Learning →
 
 ---
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saira-Asif&show_icons=true&theme=tokyonight&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saira-Asif&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saira-Asif&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saira-Asif&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saira-Asif&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Saira-Asif&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
 
 # Contribution Graph
 
-![](https://github-contributor-stats.vercel.app/api?username=Saira-Asif&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+# 📈 Contribution Graph
 
+[![Saira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saira-Asif&theme=tokyo-night&hide_border=true)](https://github.com/Saira-Asif)
 ---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saira-Asif&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
 
 # Developer Philosophy
 
