@@ -90,16 +90,7 @@ Learning →
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saira-Asif&show_icons=true&theme=tokyonight&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saira-Asif&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saira-Asif&theme=tokyonight"/>
-
+# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=Saira-Asif&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=Saira-Asif&theme=nightowl&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saira-Asif&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) ### 🔝 Top Contributed Repo ![](https://github-contributor-stats.vercel.app/api?username=Saira-Asif&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 </p>
 
 ---
